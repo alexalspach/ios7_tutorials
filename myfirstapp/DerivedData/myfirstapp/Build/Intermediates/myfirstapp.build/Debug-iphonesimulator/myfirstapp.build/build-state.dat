@@ -1,0 +1,364 @@
+Tmyfirstapp
+v6
+r1
+cCheck dependencies
+cProcessPCH /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/PrecompiledHeaders/myfirstapp-Prefix-gmshwbbprquympceatgyydbcgjoq/myfirstapp-Prefix.pch.pch myfirstapp/myfirstapp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/ViewController.o /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/AppDelegate.o /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/main.o /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/myfirstapp normal i386
+cCopyStringsFile /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/en.lproj/InfoPlist.strings myfirstapp/en.lproj/InfoPlist.strings
+cCompileStoryboard /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/Images.xcassets
+cProcessInfoPlistFile /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/Info.plist /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/myfirstapp-Info.plist
+cGenerateDSYMFile /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app.dSYM /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/myfirstapp
+cTouch /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005282A6AD00000000000003B5
+t1384294061
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005282A6B200000000000001A0
+t1384294066
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005282A6B30000000000445870
+t1384294067
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000005282A6B5000000000088C680
+t1384294069
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000005282A6B80000000001DB9910
+t1384294072
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c000000005282A6D70000000000000AC9
+t1384294103
+s2761
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/PrecompiledHeaders/myfirstapp-Prefix-gmshwbbprquympceatgyydbcgjoq/myfirstapp-Prefix.pch.pch
+t1384692680
+s109400
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/AppDelegate.o
+t1384692681
+s65320
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/ViewController.o
+t1384692681
+s41100
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/main.o
+t1384692681
+s3744
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/myfirstapp.LinkFileList
+c000000005288BBC70000000000000257
+t1384692679
+s599
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/assetcatalog_dependencies.txt
+t1384692682
+s542
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/assetcatalog_generated_info.plist
+t1384692682
+s525
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app
+t1384692683
+s306
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app.dSYM
+t2
+s0
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/Base.lproj/Main.storyboardc
+t1384692682
+s170
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/Info.plist
+t1384692683
+s1021
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/PkgInfo
+t1384692683
+s8
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/en.lproj/InfoPlist.strings
+t1384692681
+s42
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/myfirstapp
+t1384692681
+s17232
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/AppDelegate.m
+c000000005288BBBB00000000000007DC
+t1384692667
+s2012
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/Base.lproj/Main.storyboard
+c000000005288BBBB0000000000000630
+t1384692667
+s1584
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/Images.xcassets
+c000000005288BBBB0000000000000088
+t1384692667
+s136
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/ViewController.m
+c000000005288BBBB00000000000001F2
+t1384692667
+s498
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/en.lproj/InfoPlist.strings
+c000000005288BBBA000000000000002D
+t1384692666
+s45
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/main.m
+c000000005288BBBB0000000000000156
+t1384692667
+s342
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/myfirstapp-Info.plist
+c000000005288BBBA00000000000004C8
+t1384692666
+s1224
+
+N/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/myfirstapp-Prefix.pch
+c000000005288BBBB0000000000000158
+t1384692667
+s344
+
+CBuild AST from /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/AppDelegate.m
+r0
+
+CBuild AST from /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/ViewController.m
+r0
+
+CBuild AST from /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf1668947f338b841^2cb6b147f338b841^---0#1#1#--18"Check dependencies36"3C219C28-A04E-4C4A-B08D-1FC56C21B03A-
+
+CCompileAssetCatalog /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/Images.xcassets
+s406385481.264517
+e406385482.711951
+r1
+xCompileAssetCatalog
+x/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app
+x/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/Images.xcassets
+o2013-11-17 21:51:22.384 IBCocoaTouchImageCatalogTool[36413:303] CFPreferences: user home directory at file:///Volumes/Hard/Users/alex/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/LaunchImage-700-568h@2x.png
+o/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/Assets.car
+o/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"CompileAssetCatalog DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app myfirstapp/Images.xcassets121"CompileAssetCatalog DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app myfirstapp/Images.xcassets05c54349f338b841^3543b64af338b841^-806"2013-11-17 21:51:22.384 IBCocoaTouchImageCatalogTool[36413:303] CFPreferences: user home directory at file:///Volumes/Hard/Users/alex/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/LaunchImage-700-568h@2x.png/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/Assets.car/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@102"file:///Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/Images.xcassets/0000000000000000^1399"CompileAssetCatalog DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app myfirstapp/Images.xcassets    cd /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/assetcatalog_dependencies.txt --output-partial-info-plist /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/Images.xcassets36"B974A856-A6E9-456F-9C0A-DAFC318141A8-
+bDE7F3E9F-E0A7-42C5-B44D-52E4723C6CB7
+
+CCompileC DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/AppDelegate.o /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406385480.969559
+e406385481.064063
+r1
+xCompileC
+xDerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/AppDelegate.o
+x/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/AppDelegate.m
+d/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/AppDelegate.m234"CompileC DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/AppDelegate.o myfirstapp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler9a60f848f338b841^06671049f338b841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/AppDelegate.m0000000000000000^4459"CompileC DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/AppDelegate.o myfirstapp/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/myfirstapp-generated-files.hmap -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/myfirstapp-own-target-headers.hmap -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/myfirstapp-all-target-headers.hmap -iquote /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/myfirstapp-project-headers.hmap -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/DerivedSources/i386 -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/DerivedSources -F/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator -include /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/PrecompiledHeaders/myfirstapp-Prefix-gmshwbbprquympceatgyydbcgjoq/myfirstapp-Prefix.pch -MMD -MT dependencies -MF /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/AppDelegate.dia -c /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/AppDelegate.m -o /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/AppDelegate.o36"9EC6407E-B90E-46C1-9DF4-2174FBC2991D-
+bDE7F3E9F-E0A7-42C5-B44D-52E4723C6CB7
+
+CCompileC DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/ViewController.o /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406385480.969112
+e406385481.062893
+r1
+xCompileC
+xDerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/ViewController.o
+x/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/ViewController.m
+d/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/ViewController.m240"CompileC DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/ViewController.o myfirstapp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4a40f848f338b841^eb1b1049f338b841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/ViewController.m0000000000000000^4477"CompileC DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/ViewController.o myfirstapp/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/myfirstapp-generated-files.hmap -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/myfirstapp-own-target-headers.hmap -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/myfirstapp-all-target-headers.hmap -iquote /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/myfirstapp-project-headers.hmap -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/DerivedSources/i386 -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/DerivedSources -F/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator -include /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/PrecompiledHeaders/myfirstapp-Prefix-gmshwbbprquympceatgyydbcgjoq/myfirstapp-Prefix.pch -MMD -MT dependencies -MF /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/ViewController.dia -c /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/ViewController.m -o /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/ViewController.o36"A4FA7360-A6AE-4514-9E66-CFA07FB9B6D4-
+bDE7F3E9F-E0A7-42C5-B44D-52E4723C6CB7
+
+CCompileC DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/main.o /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406385480.970019
+e406385481.061553
+r1
+xCompileC
+xDerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/main.o
+x/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/main.m
+d/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/main.m220"CompileC DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/main.o myfirstapp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfa7cf848f338b841^1ac40f49f338b841^---0#0#1#-19%DVTDocumentLocation2@92"file:///Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/main.m0000000000000000^4417"CompileC DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/main.o myfirstapp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/myfirstapp-generated-files.hmap -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/myfirstapp-own-target-headers.hmap -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/myfirstapp-all-target-headers.hmap -iquote /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/myfirstapp-project-headers.hmap -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/DerivedSources/i386 -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/DerivedSources -F/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator -include /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/PrecompiledHeaders/myfirstapp-Prefix-gmshwbbprquympceatgyydbcgjoq/myfirstapp-Prefix.pch -MMD -MT dependencies -MF /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/main.d --serialize-diagnostics /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/main.dia -c /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/main.m -o /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/main.o36"CC342A28-9B69-4EE4-811B-F2C7823123BE-
+bDE7F3E9F-E0A7-42C5-B44D-52E4723C6CB7
+
+CCompileStoryboard /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/Base.lproj/Main.storyboard
+s406385481.264201
+e406385483.080255
+r1
+xCompileStoryboard
+x/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/Base.lproj/Main.storyboard
+o2013-11-17 21:51:22.641 Interface Builder Cocoa Touch Tool[36412:303] CFPreferences: user home directory at file:///Volumes/Hard/Users/alex/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"CompileStoryboard myfirstapp/Base.lproj/Main.storyboard55"CompileStoryboard myfirstapp/Base.lproj/Main.storyboard75af4349f338b841^8a8e144bf338b841^-242"2013-11-17 21:51:22.641 Interface Builder Cocoa Touch Tool[36412:303] CFPreferences: user home directory at file:///Volumes/Hard/Users/alex/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@112"file:///Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/Base.lproj/Main.storyboard0000000000000000^958"CompileStoryboard myfirstapp/Base.lproj/Main.storyboard    cd /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/Base.lproj/Main.storyboardc /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/Base.lproj/Main.storyboard36"E2A6DF82-8BF5-4694-8250-8596C85E298B-
+bDE7F3E9F-E0A7-42C5-B44D-52E4723C6CB7
+
+CCopyStringsFile /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/en.lproj/InfoPlist.strings myfirstapp/en.lproj/InfoPlist.strings
+s406385481.264044
+e406385481.265262
+r1
+xCopyStringsFile
+x/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/en.lproj/InfoPlist.strings
+xmyfirstapp/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy myfirstapp/en.lproj/InfoPlist.strings155"CopyStringsFile DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/en.lproj/InfoPlist.strings myfirstapp/en.lproj/InfoPlist.strings2eac4349f338b841^10e94349f338b841^---0#0#1#-19%DVTDocumentLocation2@112"file:///Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/en.lproj/InfoPlist.strings0000000000000000^709"CopyStringsFile DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/en.lproj/InfoPlist.strings myfirstapp/en.lproj/InfoPlist.strings    cd /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/en.lproj -- myfirstapp/en.lproj/InfoPlist.strings36"606A7718-02BE-460F-BBF9-8BCBCDAC8AD2-
+bDE7F3E9F-E0A7-42C5-B44D-52E4723C6CB7
+
+CGenerateDSYMFile /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app.dSYM /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/myfirstapp
+s406385483.091783
+e406385483.159017
+r1
+xGenerateDSYMFile
+x/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app.dSYM
+x/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/myfirstapp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection156"Generate /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app.dSYM182"GenerateDSYMFile DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app.dSYM DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/myfirstappeb8c174bf338b841^41b6284bf338b841^---0#0#1#-19%DVTDocumentLocation2@154"file:///Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app.dSYM003450bfddffdf42^858"GenerateDSYMFile DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app.dSYM DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/myfirstapp    cd /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/myfirstapp -o /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app.dSYM36"7716A637-C432-42A1-8D51-4567D8741CAE-
+bDE7F3E9F-E0A7-42C5-B44D-52E4723C6CB7
+
+CLd /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/myfirstapp normal i386
+s406385481.064671
+e406385481.257505
+r1
+xLd
+x/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/myfirstapp
+xnormal
+xi386
+d/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/myfirstapp.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/ViewController.o
+d/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/AppDelegate.o
+d/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection158"Link /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/myfirstapp100"Ld DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/myfirstapp normal i386349e1049f338b841^c4ec4149f338b841^---0#0#1#--1731"Ld DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/myfirstapp normal i386    cd /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator -F/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator -filelist /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/myfirstapp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/Objects-normal/i386/myfirstapp_dependency_info.dat -o /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/myfirstapp36"D15617E2-14A1-4BA2-B9D9-E8C56763E782-
+bDE7F3E9F-E0A7-42C5-B44D-52E4723C6CB7
+
+CProcessInfoPlistFile /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/Info.plist /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/myfirstapp-Info.plist
+s406385483.080721
+e406385483.091283
+r1
+xProcessInfoPlistFile
+x/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/Info.plist
+x/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/myfirstapp-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Process /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/myfirstapp-Info.plist139"ProcessInfoPlistFile DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/Info.plist myfirstapp/myfirstapp-Info.plist9db8144bf338b841^2062174bf338b841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/myfirstapp-Info.plist0000000000000000^1146"ProcessInfoPlistFile DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/Info.plist myfirstapp/myfirstapp-Info.plist    cd /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/myfirstapp-Info.plist -genpkginfo /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/assetcatalog_generated_info.plist -o /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app/Info.plist36"EBDE6C81-6FCC-4869-8DF9-D171C0679249-
+bDE7F3E9F-E0A7-42C5-B44D-52E4723C6CB7
+
+CProcessPCH /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/PrecompiledHeaders/myfirstapp-Prefix-gmshwbbprquympceatgyydbcgjoq/myfirstapp-Prefix.pch.pch myfirstapp/myfirstapp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406385479.698017
+e406385480.967467
+r1
+xProcessPCH
+x/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/PrecompiledHeaders/myfirstapp-Prefix-gmshwbbprquympceatgyydbcgjoq/myfirstapp-Prefix.pch.pch
+xmyfirstapp/myfirstapp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/myfirstapp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile myfirstapp/myfirstapp-Prefix.pch246"ProcessPCH DerivedData/myfirstapp/Build/Intermediates/PrecompiledHeaders/myfirstapp-Prefix-gmshwbbprquympceatgyydbcgjoq/myfirstapp-Prefix.pch.pch myfirstapp/myfirstapp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd103b347f338b841^9baef748f338b841^---0#0#1#-19%DVTDocumentLocation2@107"file:///Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/myfirstapp-Prefix.pch0000000000000000^4280"ProcessPCH DerivedData/myfirstapp/Build/Intermediates/PrecompiledHeaders/myfirstapp-Prefix-gmshwbbprquympceatgyydbcgjoq/myfirstapp-Prefix.pch.pch myfirstapp/myfirstapp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/myfirstapp-generated-files.hmap -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/myfirstapp-own-target-headers.hmap -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/myfirstapp-all-target-headers.hmap -iquote /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/myfirstapp-project-headers.hmap -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/DerivedSources/i386 -I/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/myfirstapp.build/Debug-iphonesimulator/myfirstapp.build/DerivedSources -F/Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/PrecompiledHeaders/myfirstapp-Prefix-gmshwbbprquympceatgyydbcgjoq/myfirstapp-Prefix.pch.dia -MMD -MT dependencies -MF /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/PrecompiledHeaders/myfirstapp-Prefix-gmshwbbprquympceatgyydbcgjoq/myfirstapp-Prefix.pch.d -c /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/myfirstapp/myfirstapp-Prefix.pch -o /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Intermediates/PrecompiledHeaders/myfirstapp-Prefix-gmshwbbprquympceatgyydbcgjoq/myfirstapp-Prefix.pch.pch36"A326DFDD-1677-4FAF-A640-D825BC6A93A4-
+bDE7F3E9F-E0A7-42C5-B44D-52E4723C6CB7
+
+CProcessPCH /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Index/PrecompiledHeaders/myfirstapp-Prefix-eklppybtzripfahjhxbgblbgiolw_ast/myfirstapp-Prefix.pch.pch myfirstapp/myfirstapp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Volumes/Hard/Users/alex/gitRepos/ios_dev/ios7_tutorials/myfirstapp/DerivedData/myfirstapp/Build/Products/Debug-iphonesimulator/myfirstapp.app
+r0
+
